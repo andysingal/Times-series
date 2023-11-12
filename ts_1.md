@@ -80,8 +80,15 @@ Some examples of time series data visualizations include:
 
 <strong>Stacked Area Charts</strong>: Display cumulative values or proportions of different variables over time, useful for visualizing composition or contribution.
 
-In summary, understanding the nature of time series data and employing appropriate visualization techniques and platforms are essential for extracting meaningful insights and making informed decisions.
+Main areas of application for time series analysis
+There are broadly three important areas of application for time series analysis, outlined as follows:
 
+- <strong>Time series forecasting</strong>: Predicting the future values of a time series, given the past values—for example, predict the next day's temperature using the last 5 years of temperature data.
+- <strong>Time series classification</strong>: Sometimes, instead of predicting the future value of the time series, we may also want to predict an action based on past values. For example, given a history of an
+electroencephalogram (EEG; tracking electrical activity in the brain) or an electrocardiogram (EKG; tracking electrical activity in the heart), we need to predict whether the result of an EEG or an EKG is normal or abnormal.
+- <strong>Interpretation and causality</strong>: Understand the whats and whys of the time series based on the past values, understand the interrelationships among several related time series, or derive causal inference based on time series data.
+
+<img width="708" alt="Screenshot 2023-11-12 at 3 25 52 PM" src="https://github.com/andysingal/Times-series/assets/20493493/8783c88b-5b40-4584-b740-0578939eca16">
 
 
 

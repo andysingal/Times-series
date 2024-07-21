@@ -6,4 +6,5 @@ identifying trends, and forecasting future values.
 
 Cool repo:
 - https://github.com/blue-yonder/tsfresh
-- [function](https://github.com/functime-org/functime) 
+- [function](https://github.com/functime-org/functime)
+- [TimeGPT](https://docs.nixtla.io/docs/getting-started-about_timegpt)

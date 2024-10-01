@@ -9,3 +9,4 @@ Cool repo:
 - [function](https://github.com/functime-org/functime)
 - [TimeGPT](https://docs.nixtla.io/docs/getting-started-about_timegpt)
 - [Real-Time Anomaly Detection Using Large Language Models](https://dzone.com/articles/realtime-anomaly-detection-using-large-language)
+- [Forecasting Llm](https://www.restack.io/p/ai-powered-forecasting-answer-llm-dataset-cat-ai)
